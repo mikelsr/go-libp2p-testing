@@ -7,10 +7,10 @@ import (
 	"sync"
 	"testing"
 
-	tetc "github.com/libp2p/go-libp2p-testing/etc"
-	ci "github.com/libp2p/go-libp2p/core/crypto"
-	"github.com/libp2p/go-libp2p/core/peer"
-	"github.com/libp2p/go-libp2p/core/test"
+	tetc "github.com/mikelsr/go-libp2p-testing/etc"
+	ci "github.com/mikelsr/go-libp2p/core/crypto"
+	"github.com/mikelsr/go-libp2p/core/peer"
+	"github.com/mikelsr/go-libp2p/core/test"
 
 	ma "github.com/multiformats/go-multiaddr"
 )
